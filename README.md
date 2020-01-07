@@ -19,5 +19,5 @@ Imba Shop is a web application developed using JSP. We using MVC Pattern to impl
 5.Delete the registered user.<br>
 
 <h1> Team Members </h1>
-1.Mohd Asyraf (asyraf.ruslaan@gmail.com)
-2.Amirul Naim (naimbob95@gmail.com) <br>
+1.Mohd Asyraf (asyraf.ruslaan@gmail.com) <br>
+2.Amirul Naim (naimbob95@gmail.com) 
